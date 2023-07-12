@@ -13,11 +13,11 @@ echo
 sudo /usr/local/sbin/mount_ntfs /dev/disk0s3 /Volumes/Master
 sudo /usr/local/sbin/mount_ntfs /dev/disk0s2 /Volumes/Media
 sudo /usr/local/sbin/mount_ntfs /dev/disk1s6 /Volumes/Data\ SSD
-sudo /usr/local/sbin/mount_ntfs /dev/disk1s4 /Volumes/Wind\ SSD
+#sudo /usr/local/sbin/mount_ntfs /dev/disk1s4 /Volumes/Wind\ SSD
 
 # If not accsess, then :
 
 sudo /usr/local/sbin/mount_ntfs /dev/disk2s3 /Volumes/Master
 sudo /usr/local/sbin/mount_ntfs /dev/disk2s2 /Volumes/Media
 sudo /usr/local/sbin/mount_ntfs /dev/disk0s6 /Volumes/Data\ SSD
-sudo /usr/local/sbin/mount_ntfs /dev/disk0s4 /Volumes/Wind\ SSD
+#sudo /usr/local/sbin/mount_ntfs /dev/disk0s4 /Volumes/Wind\ SSD
