@@ -9,6 +9,4 @@ simple code to read write on NTFS
 # Run
 ./MountNTFS
 
-
-
-![Screenshot 2023 07 12 At 19.27.04](../../Desktop/Screenshot%202023-07-12%20at%2019.27.04.png)
+https://github.com/mijortsa/MountNTFS/blob/main/screenshoot/mount.png
