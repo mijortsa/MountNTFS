@@ -2,8 +2,8 @@
 simple code to read write on NTFS
 
 # need a support library
-brew install macfuse
-brew install ntfs-3g
+% brew install macfuse
+% brew install ntfs-3g
 
 # Run
 ./MountNTFS
