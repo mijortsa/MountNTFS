@@ -1,5 +1,5 @@
 # MountNTFS
-simple code to read write on NTFS
+simple code to read write NTFS on macOS Ventura
 
 # need a support library
 % brew install macfuse
