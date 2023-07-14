@@ -9,4 +9,4 @@ simple code to read write on NTFS
 # Run
 ./MountNTFS
 
-https://github.com/mijortsa/MountNTFS/blob/main/screenshoot/mount.png
+![mount](https://github.com/mijortsa/MountNTFS/assets/908982/90cd7763-c1c9-46c6-86b1-171998a1a87d)
