@@ -1,7 +1,7 @@
 # MountNTFS
-simple code to read write NTFS on macOS Ventura
+simple code to read & write Internal Disk NTFS on macOS
 
-# need a support library
+# Need a support library
 % brew install macfuse
 
 % brew install ntfs-3g-mac
